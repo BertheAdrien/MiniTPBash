@@ -1,0 +1,9 @@
+2) 
+chiifre affiché dans le terminal : 2
+
+
+8) 
+$ ls -l
+total 2
+-rw-r--r-- 1 rayth 197609 38 Sep 15 11:47 order.txt
+-rw-r--r-- 1 rayth 197609 26 Sep 15 11:58 secret.txt
